@@ -1,28 +1,36 @@
 /* Style Sheet */
+
+/* Color Name */
 h1{
     color: tomato;
     background-color: red;
 }
+/* Hexadecimal */
 h2{
     color: #FFC500;
     background-color: orange;
 }
+/* Hexadecimal Shorthand */
 h3{
     color: #FC0;
     background-color: yellow;
 }
+/* Hexadecimal with Transparency */
 h4{
     color: #00FA0077;
     background-color: green;
 }
+/* Hexadecimal with Transparency Shorthand */
 h5{
     color: #0AFA;
     background-color: blue;
 }
+/* RGB */
 h6{
     color: rgb(140, 111, 189);
     background-color: indigo;
 }
+/* RGBA */
 p{
     color: rgba(127, 0, 255, .75);
     background-color: violet;
@@ -35,7 +43,7 @@ p{
     border-style: solid;
 }
 #Three{
-    color: peachpuff;
+    background-color: peachpuff;
     border-width: 5px;
     border-color: green;
     border-style: solid;
